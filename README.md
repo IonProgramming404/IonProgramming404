@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IonProgramming404
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Programming/Design
 - 🌱 I’m currently learning How to build websites and games
 - 💞️ I’m looking to collaborate topics of about programming and ethical hacking 
 - 📫 How to reach me Instagram: iyonna_freeman404
